@@ -9,7 +9,7 @@ Anda bisa menetapkan nilai baru ke variabel yang sudah ada, tetapi harus berupa 
 
 Variabel yang dideklarasikan dalam kurung kurawal {}, kurung kurawal pembukaan {memperkenalkan lingkup baru yang berakhir dengan kurung kurawal}.
 
-## Beberapa ketentuan Variabel
+### Beberapa ketentuan Variabel
 Berikut adalah aturan berikut untuk memberi nama variabel Golang:
 1. Nama harus dimulai dengan huruf, dan dapat memiliki sejumlah huruf dan angka tambahan.
 2. Nama variabel tidak dapat dimulai dengan angka.
