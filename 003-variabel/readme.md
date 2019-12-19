@@ -17,4 +17,4 @@ Berikut adalah aturan berikut untuk memberi nama variabel Golang:
 4. Jika nama variabel dimulai dengan huruf kecil, itu hanya dapat diakses dalam paket saat ini yang dianggap sebagai variabel yang tidak diekspor.
 5. Jika nama variabel dimulai dengan huruf kapital, dapat diakses dari paket di luar paket saat ini yang dianggap sebagai variabel yang diekspor.
 6. Jika nama terdiri dari beberapa kata, setiap kata setelah yang pertama harus menggunakan huruf besar seperti ini: empName, EmpAddress, dll.
-7. Nama variabel adalah case-sensitive (mobil, Mobil dan CAR adalah tiga variabel yang berbeda).
+7. Nama variabel adalah case-sensitive (mobil, Mobil dan MOBIL adalah tiga variabel yang berbeda).
