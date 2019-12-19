@@ -9,18 +9,12 @@ Anda bisa menetapkan nilai baru ke variabel yang sudah ada, tetapi harus berupa 
 
 Variabel yang dideklarasikan dalam kurung kurawal {}, kurung kurawal pembukaan {memperkenalkan lingkup baru yang berakhir dengan kurung kurawal}.
 
-## Beberapa ketentuan Variabel:
+## Beberapa ketentuan Variabel
 Berikut adalah aturan berikut untuk memberi nama variabel Golang:
-
-Nama harus dimulai dengan huruf, dan dapat memiliki sejumlah huruf dan angka tambahan.
-
-Nama variabel tidak dapat dimulai dengan angka.
-Nama variabel tidak boleh berisi spasi.
-
-Jika nama variabel dimulai dengan huruf kecil, itu hanya dapat diakses dalam paket saat ini yang dianggap sebagai variabel yang tidak diekspor.
-
-Jika nama variabel dimulai dengan huruf kapital, dapat diakses dari paket di luar paket saat ini yang dianggap sebagai variabel yang diekspor.
-
-Jika nama terdiri dari beberapa kata, setiap kata setelah yang pertama harus menggunakan huruf besar seperti ini: empName, EmpAddress, dll.
-
-Nama variabel adalah case-sensitive (mobil, Mobil dan CAR adalah tiga variabel yang berbeda).
+1. Nama harus dimulai dengan huruf, dan dapat memiliki sejumlah huruf dan angka tambahan.
+2. Nama variabel tidak dapat dimulai dengan angka.
+3. Nama variabel tidak boleh berisi spasi.
+4. Jika nama variabel dimulai dengan huruf kecil, itu hanya dapat diakses dalam paket saat ini yang dianggap sebagai variabel yang tidak diekspor.
+5. Jika nama variabel dimulai dengan huruf kapital, dapat diakses dari paket di luar paket saat ini yang dianggap sebagai variabel yang diekspor.
+6. Jika nama terdiri dari beberapa kata, setiap kata setelah yang pertama harus menggunakan huruf besar seperti ini: empName, EmpAddress, dll.
+7. Nama variabel adalah case-sensitive (mobil, Mobil dan CAR adalah tiga variabel yang berbeda).
