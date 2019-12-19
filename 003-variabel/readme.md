@@ -1,4 +1,4 @@
-Variabel Golang
+# Variabel Golang
 
 Variabel adalah nama yang mewakili data yang disimpan dalam memori komputer. Inilah beberapa hal penting yang perlu diketahui tentang variabel Golang:
 
